@@ -31,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashish1a&show_icons=true&locale=en" alt="aashish1a" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashish1a&" alt="aashish1a" /></p>## Hi there 👋
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashish1a&" alt="aashish1a" /></p>
 
 <!--
 **Aashish1A/Aashish1A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
