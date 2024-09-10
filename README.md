@@ -2,7 +2,7 @@
 <div align="center"><img src="https://github.com/Aashish1A/Aashish1A/blob/main/WhatsApp%20Image%202024-09-10%20at%204.29.55%20PM.jpeg?raw=true" alt="logo" width="600"/></div>
 
 <h1 align="center">Hi 👋, I'm Aashish Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
@@ -11,8 +11,6 @@
 - 🌱 I’m currently learning **JavaScript and React.js**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aashish-07t/](https://www.linkedin.com/in/aashish-07t/)
-
-- 📝 I regularly write articles on [linkedin](linkedin)
 
 - 📫 How to reach me **aashishkumar93412@gmail.com**
 
