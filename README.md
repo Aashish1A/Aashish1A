@@ -1,3 +1,5 @@
+![logo](https://github.com/Aashish1A/Aashish1A/blob/main/WhatsApp%20Image%202024-09-10%20at%204.29.55%20PM.jpeg?raw=true)
+
 <h1 align="center">Hi 👋, I'm Aashish Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
