@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **aashishkumar93412@gmail.com**
 
-- ⚡ Fun fact **I enjoy taking on coding challenges and building websites.**
+- ⚡ Fun fact: **I enjoy taking on coding challenges.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
