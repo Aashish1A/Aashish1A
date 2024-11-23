@@ -8,13 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashish1a&label=Profile%20views&color=0e75b6&style=flat" alt="aashish1a" /> </p>
 
-- 🌱 I’m currently learning **React.js and Redux**
+- 🎯 Exploring **React** to take my front-end development to the next level.
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aashish-07t/](https://www.linkedin.com/in/aashish-07t/)
 
 - 📫 How to reach me **aashishkumar93412@gmail.com**
 
-- ⚡ Fun fact **I think I am not funny 🧑🏻‍💻.**
+- ⚡ Fun fact **I enjoy taking on coding challenges and building websites.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
