@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashish1a&label=Profile%20views&color=0e75b6&style=flat" alt="aashish1a" /> </p>
 
-- 🎯 Exploring **React** to take my front-end development to the next level.
+- 🎯 Exploring **Backend** to take my development to the next level.
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aashish-07t/](https://www.linkedin.com/in/aashish-07t/)
 
