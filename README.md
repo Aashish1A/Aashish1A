@@ -1,5 +1,5 @@
 
-<div align="center"><img src="https://github.com/Aashish1A/Aashish1A/blob/main/WhatsApp%20Image%202024-09-10%20at%204.29.55%20PM.jpeg?raw=true" alt="logo" width="600"/></div>
+<div align="center"><img src="https://github.com/Aashish1A/Aashish1A/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.jpg?raw=true" alt="logo" width="600"/></div>
 
 <h1 align="center">Hi 👋, I'm Aashish Kumar</h1>
 <h3 align="center">A Passionate FullStack Developer from India</h3>
