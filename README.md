@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=aashish1a&label=Profile%20views&color=0e75b6&style=flat" alt="aashish1a" /> 
 </p>
 
-- 🎯 Exploring **Backend** to take my development to the next level.  
+- 🚀 Currently working on **real-world projects** to sharpen my skills and looking to collaborate with like-minded developers. 
 - 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/aashish-07t/)  
 - 📫 Reach me at **aashishkumar93412@gmail.com**  
 - ⚡ Fun fact: **I enjoy taking on coding challenges.**
