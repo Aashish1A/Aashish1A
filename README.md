@@ -104,13 +104,14 @@ const aashish = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 50px; justify-content: center;">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aashish1a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish1a&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aashish1a&theme=tokyonight" alt="GitHub Streak" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashish1a&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
