@@ -1,7 +1,5 @@
 <div align="center"><div align="center">
 
-  <img src="https://github.com/Aashish1A/Aashish1A/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.jpg?raw=true" alt="logo" width="600"/>
-
 <!-- Animated Header --></div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Aashish%20Kumar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=51&descSize=13"/>
