@@ -5,7 +5,7 @@
 
 <!-- Social Links at Top -->
 <div align="center" style="margin: 30px 0;">
-  <a href="#" style="margin: 0 10px;">
+  <a href="https://aashish1a.netlify.app" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
   </a>
   <a href="#" style="margin: 0 10px;">
