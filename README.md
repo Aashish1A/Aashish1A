@@ -38,27 +38,6 @@
 
 ## 🚀 About Me
 
-```javascript
-const aashish = {
-    location: "India 🇮🇳",
-    code: ["JavaScript", "Java"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Redux", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "Material-UI"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            java: ["Spring", "Spring Boot"],
-        },
-        databases: ["MongoDB", "MySQL"],
-        tools: ["Git", "AWS", "Vercel"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
-};
-```
-
 - 🔭 Currently working on **exciting full-stack projects**
 - 🌱 Learning **Advanced React patterns & Backend technologies**
 - 👯 Looking to collaborate on **open source projects**
