@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Aashish%20Kumar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=51&descSize=13"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=300&section=header&text=Aashish%20Kumar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20UI/UX%20Designer&descAlignY=51&descSize=13"/>
 
 <!-- Social Links at Top -->
 <div align="center" style="margin: 30px 0;">
@@ -34,8 +33,6 @@
 
 </div>
 
----
-
 ## 🚀 About Me
 
 - 🔭 Currently working on **exciting full-stack projects**
@@ -45,7 +42,6 @@
 - 📫 Reach me at **aashishkumar93412@gmail.com**
 - ⚡ Fun fact: **I can code for hours without coffee and good music! ☕🎵**
 
----
 
 ## 🛠️ Tech Stack
 
@@ -79,40 +75,16 @@
 
 </div>
 
----
-
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 50px; justify-content: center;">
-  
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aashish1a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish1a&layout=compact&langs_count=8&theme=tokyonight"/>
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aashish1a&theme=tokyonight" alt="GitHub Streak" />
-
+  <img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=aashish1a&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aashish1a&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/aashish1a/aashish1a/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
