@@ -38,9 +38,7 @@
 - 🔭 Currently working on **exciting full-stack projects**
 - 🌱 Learning **Advanced React patterns & Backend technologies**
 - 👯 Looking to collaborate on **open source projects**
-- 💡 Ask me about **React, Node.js, MongoDB, or anything tech**
 - 📫 Reach me at **aashishkumar93412@gmail.com**
-- ⚡ Fun fact: **I can code for hours without coffee and good music! ☕🎵**
 
 
 ## 🛠️ Tech Stack
