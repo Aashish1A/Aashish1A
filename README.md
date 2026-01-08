@@ -4,16 +4,16 @@
 
 <!-- Social Links at Top -->
 <div align="center" style="margin: 30px 0;">
-  <a href="" style="margin: 0 10px;" target="_blank">
+  <a href="https://aashish1a.netlify.app/" style="margin: 0 10px;" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
   </a>
-  <a href="" style="margin: 0 10px;" target="_blank">
+  <a href="https://www.linkedin.com/in/aashish1a/" style="margin: 0 10px;" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="" style="margin: 0 10px;" target="_blank">
+  <a href="https://x.com/Aashish1A" style="margin: 0 10px;" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="" style="margin: 0 10px;" target="_blank">
+  <a href="https://leetcode.com/u/Aashish1A/" style="margin: 0 10px;" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </div>
