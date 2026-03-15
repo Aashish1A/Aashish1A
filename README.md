@@ -13,9 +13,6 @@
   <a href="https://x.com/Aashish1A" style="margin: 0 10px;" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/Aashish1A/" style="margin: 0 10px;" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
 </div>
 
 <!-- Typing Animation -->
