@@ -33,7 +33,6 @@
 ## 🚀 About Me
 
 - 🔭 Currently working on **exciting full-stack projects**
-- 🌱 Learning **Advanced React patterns & Backend technologies**
 - 👯 Looking to collaborate on **open source projects**
 - 📫 Reach me at **aashishkumar93412@gmail.com**
 
